@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.env
+weather.json
+.vscode
+test.py
+debug_endpoints.py
